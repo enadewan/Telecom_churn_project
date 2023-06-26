@@ -1,6 +1,6 @@
 # Telecom Churn Project 
 
-Supervised Machine Learning techniques 
+Supervised Machine Learning techniques. 
 Used Pycaret to get best machine learning models and their hyperparameters.
 Refer to power point slides for a better understanding and conclusion of our results.
 
